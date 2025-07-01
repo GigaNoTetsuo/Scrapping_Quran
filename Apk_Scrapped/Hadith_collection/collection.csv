@@ -1,0 +1,34 @@
+id,type,title,short_description,numbering_source,has_volumes,has_books,has_chapters,status,title_en,short_description_en,numbering_source_en,last_updated
+1,collection,"صحيح البخاري","","",1,1,1,complete,"Sahih al-Bukhari","Sahih al-Bukhari is a collection of hadith compiled by Imam Muhammad al-Bukhari (d. 256 AH/870 AD) (rahimahullah).
+
+His collection is recognized by the overwhelming majority of the Muslim world to be the most authentic collection of reports of the <i>Sunnah</i> of the Prophet Muhammad (ﷺ). It contains over 7500 hadith (with repetitions) in 97 books.
+
+The translation provided here is by Dr. M. Muhsin Khan.","The numbering below corresponds with Shaykh Muhammad Fuad `Abd al-Baqi's (rahimahullah) numbering scheme.","2025-01-29 11:22:43+00:00"
+2,collection,"صحيح مسلم","","",0,1,1,complete,"Sahih Muslim","Sahih Muslim is a collection of hadith compiled by Imam Muslim ibn al-Hajjaj al-Naysaburi (rahimahullah).
+His collection is considered to be one of the most authentic
+collections of the Sunnah of the Prophet (ﷺ), and along with
+Sahih al-Bukhari forms the ""Sahihain,"" or the ""Two Sahihs.""
+It contains roughly 7500 hadith (with repetitions) in 57 books.
+<br>
+The translation provided here is by Abdul Hamid Siddiqui.","The numbering below corresponds with Shaykh Muhammad Fuad `Abd al-Baqi's (rahimahullah) numbering scheme.","2024-10-20 05:45:45+00:00"
+3,collection,"سنن النسائي","","",1,1,1,complete,"Sunan an-Nasa'i","Sunan an-Nasa'i is a collection of hadith compiled by Imam Ahmad an-Nasa'i (rahimahullah).
+His collection is unanimously considered to be one of the six canonical collections of hadith (Kutub as-Sittah)
+of the Sunnah of the Prophet (ﷺ).
+It contains roughly 5700 hadith (with repetitions) in 52 books.
+","The numbering below corresponds with Shaykh `Abd al-Fattah Abu Ghuddah's (rahimahullah) numbering scheme.","2024-10-16 03:54:31+00:00"
+10,collection,"سنن أبي داود","","",0,1,1,complete,"Sunan Abi Dawud","Sunan Abi Dawud is a collection of hadith compiled by Imam Abu Dawud Sulayman ibn al-Ash'ath as-Sijistani (rahimahullah). It is widely considered to be among the six canonical collections of hadith (Kutub as-Sittah) of the Sunnah of the Prophet (ﷺ). It consists of 5274 ahadith in 43 books.
+<br><br><a href=""/abudawud/letter"">Letter from Imam Abu Dawud to the people of Makkah explaining his book, terms he uses, and his methodology.</a>","The numbering below corresponds with Shaykh Muhammad Muhi ad-Din `Abd al-Hameed's (rahimahullah) numbering scheme.","2024-10-16 13:40:14+00:00"
+30,collection,"جامع الترمذي ","","",1,1,1,complete,"Jami` at-Tirmidhi","Jami` at-Tirmidhi is a collection of hadith compiled by Imam Abu `Isa Muhammad at-Tirmidhi (rahimahullah). His collection is unanimously considered to be one of the six canonical collections of hadith (Kutub as-Sittah) of the Sunnah of the Prophet (ﷺ). It contains roughly 4400 hadith (with repetitions) in 46 books. 
+","The numbering below corresponds with the numbering scheme started by Shaykh Ahmad Shakir, then continued by Shaykh Muhammad Fu'ad 'Abdul Baaqi, and finished by Shaykh Ibrahim 'Atwah 'Aood (rahimahumullah).","2024-08-15 10:45:01+00:00"
+38,collection,"سنن ابن ماجه","","",1,1,1,complete,"Sunan Ibn Majah","Sunan Ibn Majah is a collection of hadith compiled by Imam Muhammad bin Yazid Ibn Majah al-Qazvini (rahimahullah). It is widely considered to be the sixth of the six canonical collection of hadith (Kutub as-Sittah) of the Sunnah of the Prophet (ﷺ). It consists of 4341 ahadith in 37 books.
+","The numbering below corresponds with Shaykh Muhammad Fuad `Abd al-Baqi's (rahimahullah) numbering scheme.","2024-12-19 14:45:48+00:00"
+40,collection," موطأ مالك","","",0,1,1,complete,"Muwatta Malik","","","2020-04-19 20:13:41+00:00"
+50,collection,"مسند أحمد","","",1,1,0,incomplete,"Musnad Ahmad","Musnad Ahmad is a collection of hadith compiled by Imam Ahmad ibn Hanbal (d. 241 AH/855 AD - rahimahullah). It is one of the most famous and important collections of reports of the Sunnah of the Prophet Muhammad (ﷺ). It is the largest of the main books of hadith containing approximately 28,199 hadith sectioned based on individual Companions. The translation provided here is by Nasir Khattab.","","2020-12-12 14:34:11+00:00"
+102,selection,"الأربعينات","","",0,1,0,complete,"Collections of Forty","","","2024-12-19 14:47:58+00:00"
+110,selection,"رياض الصالحين ","","",0,1,1,complete,"Riyad as-Salihin","Riyad as-Salihin is a selection of hadith compiled by Imam Yahya ibn Sharaf an-Nawawi. It is one of the most widely known and read books of hadith all over the world, containing approximately 1,900 carefully chosen hadith on ethics, manners, worship, knowledge, and other topics compiled from the Six Books of hadith. It is practical and accessible to Muslims of all levels.","","2024-12-19 14:47:04+00:00"
+113,selection,"مشكاة المصابيح","","",0,1,1,incomplete,"Mishkat al-Masabih","Mishkat al-Masabih is a selection of hadith compiled by Imam Khatib at-Tabrizi. Imam at-Tabrizi expanded on an earlier selection of hadith named Masabih as-Sunnah by Imam al-Baghawi. Mishkat al-Masabih contains approximately 6,000 hadith chosen from the Six Books, Musnad Ahmad, and various others. It is a comprehensive selection of hadith that covers almost all aspects of Islamic belief, jurisprudence (<i>fiqh</i>), and virtues. The translation provided here is by James Robson.","","2024-12-19 14:47:21+00:00"
+115,collection,"الأدب المفرد","","",0,1,1,complete,"Al-Adab Al-Mufrad","","","2025-01-08 09:21:41+00:00"
+130,selection,"الشمائل المحمدية","","",0,1,0,complete,"Ash-Shama'il Al-Muhammadiyah","","","2021-10-08 17:31:34+00:00"
+200,collection,"بلوغ المرام","","",0,1,1,complete,"Bulugh al-Maram","","","2021-03-31 02:43:21+00:00"
+300,selection,"حصن المسلم","","",0,0,1,complete,"Hisn al-Muslim","","","2021-02-10 20:41:46+00:00"
+350,selection,"الجامع المختصر لفضائل الآيات والسور","","",0,0,1,incomplete,"Virtues of the Qur'an's Chapters and Verses","This is a short, fully authentic collection of ahadith compiled by <a href=""https://imamsuleiman.com"">Shaykh Suleiman Hani</a> on the special virtues of the Qur'an's Chapters & Verses. The purpose of this collection is to make the English/Arabic compilation of narrations freely accessible in one place, while excluding weak or fabricated reports that are commonly shared by many Muslims. Shaykh Suleiman and his team have worked diligently to verify the authentication of the narrations with multiple scholars of hadith. His introduction to the compilation follows. This compilation is reproduced here with his generous permission.","","2024-02-29 02:49:59+00:00"

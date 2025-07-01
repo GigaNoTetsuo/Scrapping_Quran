@@ -1,0 +1,24 @@
+id,collection_id,language_code,last_updated,url
+1,1,en,"2025-01-27 09:30:07+00:00",/files/v1/database/hadith/bukhari_en.zip
+2,1,ur,"2025-01-06 10:41:08+00:00",/files/v1/database/hadith/bukhari_ur.zip
+3,1,bn,"2024-08-14 12:19:02+00:00",/files/v1/database/hadith/bukhari_bn.zip
+4,2,en,"2024-10-20 05:45:45+00:00",/files/v1/database/hadith/muslim_en.zip
+5,3,en,"2024-10-16 03:54:31+00:00",/files/v1/database/hadith/nasai_en.zip
+6,10,en,"2024-10-16 13:40:14+00:00",/files/v1/database/hadith/abudawud_en.zip
+7,10,ur,"2024-10-16 13:20:19+00:00",/files/v1/database/hadith/abudawud_ur.zip
+8,30,en,"2024-08-15 10:45:01+00:00",/files/v1/database/hadith/tirmidhi_en.zip
+9,38,en,"2024-12-19 14:45:48+00:00",/files/v1/database/hadith/ibnmajah_en.zip
+10,38,ur,"2024-12-19 14:45:48+00:00",/files/v1/database/hadith/ibnmajah_ur.zip
+11,40,en,"2020-04-19 20:13:41+00:00",/files/v1/database/hadith/malik_en.zip
+12,50,en,"2020-12-12 14:34:11+00:00",/files/v1/database/hadith/ahmad_en.zip
+13,102,en,"2024-12-19 14:47:58+00:00",/files/v1/database/hadith/forty_en.zip
+14,110,en,"2024-12-19 14:47:04+00:00",/files/v1/database/hadith/riyadussalihin_en.zip
+15,113,en,"2024-12-19 14:47:21+00:00",/files/v1/database/hadith/mishkat_en.zip
+16,115,en,"2025-01-08 09:21:41+00:00",/files/v1/database/hadith/adab_en.zip
+17,130,en,"2021-10-08 17:31:34+00:00",/files/v1/database/hadith/shamail_en.zip
+18,200,en,"2021-03-31 02:43:21+00:00",/files/v1/database/hadith/bulugh_en.zip
+19,300,en,"2021-02-10 20:41:46+00:00",/files/v1/database/hadith/hisn_en.zip
+20,350,en,"2024-02-29 02:49:59+00:00",/files/v1/database/hadith/virtues_en.zip
+21,2,ur,"2024-10-20 09:07:10+00:00",/files/v1/database/hadith/muslim_ur.zip
+22,3,ur,"2024-10-16 04:34:15+00:00",/files/v1/database/hadith/nasai_ur.zip
+23,30,ur,"2024-10-20 09:40:52+00:00",/files/v1/database/hadith/tirmidhi_ur.zip
