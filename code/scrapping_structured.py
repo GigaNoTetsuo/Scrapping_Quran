@@ -1,33 +1,37 @@
 import json
 
-input_file = "/home/nebulamind/Documents/AI Lab/Scraping/tags/quranic_topics_and_references.json"
-output_file = "/home/nebulamind/Documents/AI Lab/Scraping/tags/quranic_topics_and_references_cleaned.json"
+input_file = "/media/ubaisters/4CF2E61CF2E609D2/AI Lab/Scrapping_Quran/json/quranic_topics_and_references.json"
+output_file = "/media/ubaisters/4CF2E61CF2E609D2/AI Lab/Scrapping_Quran/json/quranic_topics_and_references_cleaned.json"
+
+
 # Load your original JSON file
 with open(input_file, 'r') as infile:
     data = json.load(infile)
 
-flattened = []
+output = []
 
-for entry in data:
-    topic = entry.get("Topic Title", "")
-    sub_topic = entry.get("Sub-Topic", "")
-    verse_refs = entry.get("Verse References", "")
-    
-    for verse in verse_refs.split():
+# Process each topic
+for item in data:
+    topic = item["Topic Title"]
+    sub_topic = item["Sub-Topic"]
+    verses = item["Verse References"].split(" ")
+
+    for verse in verses:
         if ':' in verse:
-            parts = verse.split(":")
-            if len(parts) == 2:
-                surah, ayah = parts
-                flattened.append({
-                    "Topic Title": topic,
-                    "Sub-Topic": sub_topic,
-                    "Verse Reference": f"{surah}|{ayah}"
-                })
-            else:
-                print(f"Skipping malformed verse (too many colons): {verse}")
+            surah, ayah = verse.split(":")
+            output.append({
+                "Topic Title": topic,
+                "Sub-Topic": sub_topic,
+                "Verse ID": f"{surah}|{ayah}"
+            })
+
         else:
-            print(f"Skipping malformed verse (no colon): {verse}")
+            # Handle cases where verse format is not as expected
+            print(f"Unexpected verse format: {verse}")
+
+# Print or save the output JSON
+# print(json.dumps(output, indent=2, ensure_ascii=False))
 
 # Save to a new file
 with open(output_file, 'w') as outfile:
-    json.dump(flattened, outfile, indent=2)
+    json.dump(output, outfile, indent=2)
