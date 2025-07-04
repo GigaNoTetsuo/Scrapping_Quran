@@ -6,3 +6,8 @@
 /json_data
 
 /apk_csv
+/code/invalid_ids.json
+
+/tags/quran_tags_final_with_translations_structured.json
+/tags/quranic_topics_and_references_cleaned.json
+/tags/All_tags_seperated.json
